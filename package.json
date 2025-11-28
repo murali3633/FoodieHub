@@ -1,0 +1,13 @@
+{
+  "name": "food-delivery",
+  "version": "1.0.0",
+  "description": "Food Delivery Application",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:db": "node --experimental-modules test-db-connection.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
