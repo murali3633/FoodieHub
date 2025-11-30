@@ -4,7 +4,7 @@
 
 A full-stack food delivery platform built with MERN stack (MongoDB, Express.js, React, Node.js) that allows users to browse restaurants, place orders, and track deliveries in real-time.
 
-## 🚀 Features
+## 🚀 Features 
 
 - **User Authentication**: Secure signup and login with JWT
 - **Restaurant Browsing**: View available restaurants and menus
